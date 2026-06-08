@@ -1,0 +1,8 @@
+name: ush
+kind: doctrine
+layer: soul
+owner_sister: none
+domain: none
+state: active
+purpose: The force that names when something has truly ended and must be let go.
+dependsOn: [kur, til]
